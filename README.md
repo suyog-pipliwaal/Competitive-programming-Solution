@@ -1,5 +1,3 @@
-# codechefSolution
-All the solutio of problems on code chef.
-
-Name of file is code of problem.
+# Solutions
+Solution to various competivite programming questions I have solved on various platform. 
 
