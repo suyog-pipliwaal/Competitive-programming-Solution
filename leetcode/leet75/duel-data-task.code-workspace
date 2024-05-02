@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../repair/de/duel-data-task"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}
