@@ -20,9 +20,6 @@ class TestCode(unittest.TestCase):
 	# 	self.assertEqual(max_candies(str1 = "LEET", str2 = "CODE"),"")
 
 
-
-
-
 if __name__ == '__main__':
 	# gcd(word1 = "abc", word2 = "pqr")
 	unittest.main()
