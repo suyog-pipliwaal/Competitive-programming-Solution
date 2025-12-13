@@ -1,9 +1,9 @@
 import unittest
 import re
 class TestSolution(unittest.TestCase):
-    def setUp(self):
+     def setUp(self):
           self.s = Solution()
-    def test_valid_palindrome(self):
+     def test_valid_palindrome(self):
          test_case = [
               ("A man, a plan, a canal: Panama", True),
               ("race a car", False),
