@@ -38,7 +38,8 @@ class Solution:
 			
 			if 	re.fullmatch(valid_coupons, code[i]) and isActive[i] and businessLine[i] == valid_business[3]:
 				r_code.append(code[i])
-		return sorted(e_code+g_code+p_code+r_code)
+		# return sorted(e_code+g_code+p_code+r_code)
+		return sorted(e_code) + sorted(g_code) +sorted(p_code)+sorted(r_code)
 if __name__ == '__main__':
 	unittest.main()
 	# s = Solution()
